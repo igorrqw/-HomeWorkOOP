@@ -1,6 +1,6 @@
 package HomeWorkOOP.Homework2;
 
-public class Relationship {
+public class Relationship implements RelationshipInterface {
     private Person human1;
     private Person human2;
     private Relation relation;

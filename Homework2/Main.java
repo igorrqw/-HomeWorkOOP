@@ -34,5 +34,8 @@ public class Main {
         System.out.println("-------------------\n");
 
         System.out.println("\n---------------" + tree.getRelationship() + "\n--------------------------");
+    
+        Writer writeData = new Writer(tree);
+        writeData.writeToFile();
     }
 }
