@@ -1,4 +1,4 @@
-package HomeWorkOOP.test;
+package HomeWorkOOP.Homework5;
 
 
 import java.io.FileWriter;
