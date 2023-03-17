@@ -1,7 +1,6 @@
 package HomeWorkOOP.Homework5;
 
 import java.awt.EventQueue;
-
 import javax.swing.JFrame;
 import javax.swing.JTextField;
 import javax.swing.JButton;
@@ -10,9 +9,7 @@ import java.awt.event.ActionListener;
 import java.util.logging.Logger;
 import java.awt.event.ActionEvent;
 
-
 public class Calci {
-
 	private JFrame frame;
 	private JTextField textField;
 	double first;
@@ -315,9 +312,5 @@ public class Calci {
 		btnEqual.setFont(new Font("Tahoma", Font.BOLD, 18));
 		btnEqual.setBounds(141, 296, 65, 54);
 		frame.getContentPane().add(btnEqual);
-
-		
 	}
-
-
 } 

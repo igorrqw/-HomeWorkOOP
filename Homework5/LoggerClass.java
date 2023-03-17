@@ -1,6 +1,5 @@
 package HomeWorkOOP.Homework5;
 
-
 import java.io.FileWriter;
 import java.io.IOException;
 import java.time.LocalDate;
@@ -22,5 +21,5 @@ public class LoggerClass {
     
         } catch (IOException ex) {
         }
-}
+    }
 }
